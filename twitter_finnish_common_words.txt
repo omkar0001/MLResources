@@ -29,7 +29,6 @@ voi
 alueella
 eetupietu
 saa
-elisa.to
 meille
 oli
 Ei
@@ -67,7 +66,6 @@ yleensä
 juuri
 päivää
 vaikka
-pic.twitter.com
 laskut
 muuten
 sitä
@@ -139,7 +137,6 @@ homma
 Itsellä
 ilman
 kaikki
-www.puhelinvertailu.com
 selittää
 ääntä
 erikseen
@@ -326,7 +323,6 @@ vaatii
 perinnästä
 taajuuksia
 näppärästi
-bit.ly
 nii
 ilmestyis
 sain
@@ -366,10 +362,8 @@ testattu
 laittoa
 koitettu
 asap
-tele.fin
 chatissä
 toki
-twitter.com
 Pystytkö
 käynnistystä
 huikkaamaan
@@ -422,7 +416,6 @@ AinaApunasi
 sentään
 rotu
 sekoiluun
-minunpalveluni.dna.fi
 No
 juu
 luvattua
@@ -446,7 +439,6 @@ telelle
 sim
 uudelleenkäynistetty
 tililtä
-www.sonera.fi
 nastynapalm
 okei
 toisessa
